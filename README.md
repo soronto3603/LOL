@@ -1,6 +1,7 @@
 # LOL
 LOL API 
 한글로 만들어진 API가 없어서 만들던 프로젝트에 있던 모듈을 올림
+
 $server = "kr";
 $key="";
 
